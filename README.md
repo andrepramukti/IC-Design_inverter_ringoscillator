@@ -1,2 +1,2 @@
-# IC-Design_inverter_ringoscillator
-MSIB IC Design
+# IC-Design_inverter_ringoscillator_Op-amp
+MSIB IC Design Analog
